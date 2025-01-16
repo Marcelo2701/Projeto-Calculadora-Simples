@@ -4,4 +4,4 @@ Projeto que conta com a possibilidade do usuário realizar as 4 operações bás
 - Funções que retornam o valor final da operação.
 - Inserção de 2 valores pelo usuário.
 
-Para acessar o arquivo .java basta ir na pasta src/
+Para acessar o arquivo .java basta ir na pasta src/calculadora
